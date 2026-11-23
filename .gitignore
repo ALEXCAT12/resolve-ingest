@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Estado local y medios de prueba
+*.part.*
+*.log
+state.json
+config.toml
+
+# Notas de trabajo locales
+STATUS.md
